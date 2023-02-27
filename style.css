@@ -1,0 +1,284 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,500;1,600;1,700&family=Roboto:ital,wght@0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+
+body {
+  max-width: 1400px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 0 auto;
+}
+
+.chaparal {
+  margin: 40px;
+  width: 274px;
+  height: 38px;
+}
+
+.navbar {
+  background: #f4f7f0;
+  height: 120px;
+}
+
+.nav {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  margin-top: -70px;
+}
+
+.a {
+  color: #818278;
+  text-decoration: none;
+}
+
+a:hover {
+  color: black;
+}
+
+.find {
+  height: 48px;
+  width: 163px;
+  left: 1130px;
+  top: 26px;
+  border-radius: 40px;
+  padding: 12px 30px 12px 30px;
+  color: #84ae52;
+}
+
+.btn {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: -25px;
+}
+
+.hero {
+  max-width: 550px;
+  padding-top: 80px;
+}
+
+.why {
+  font-family: Fraunces;
+  margin-left: 50px;
+  font-size: 60px;
+  font-weight: 600;
+  line-height: 69px;
+  letter-spacing: 0px;
+}
+
+.copy {
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 40px;
+  padding-left: 60px;
+  letter-spacing: 0px;
+}
+
+.image {
+  padding-left: 700px;
+  margin-top: -400px;
+}
+
+.none {
+  font-family: Fraunces;
+  font-size: 44px;
+  font-weight: 600;
+  line-height: 54px;
+  letter-spacing: 0px;
+  padding-left: 50px;
+  padding-top: 90px;
+  text-align: left;
+}
+
+.bnt {
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 34px;
+  letter-spacing: 0px;
+  color: #ffffff;
+  background: #84ae52;
+  border-radius: 40px;
+  width: 196px;
+  height: 60px;
+  border: none;
+}
+
+.btn-1 {
+  padding-left: 50px;
+}
+
+.paragrap {
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 40px;
+  letter-spacing: 0px;
+  padding-left: 700px;
+  margin-top: -160px;
+}
+
+.box {
+  font-family: Fraunces;
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 44px;
+  letter-spacing: 0px;
+  padding-left: 50px;
+  padding-top: 100px;
+}
+
+.image-2 {
+  padding-left: 700px;
+  max-width: 700px;
+}
+
+.Specialties {
+  font-family: Fraunces;
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 44px;
+  padding-top: 90px;
+  padding-left: 50px;
+  letter-spacing: 0px;
+}
+
+.from {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: -70px;
+}
+
+.here {
+  display: flex;
+  justify-content: space-between;
+}
+
+.show {
+  height: 48px;
+  width: 215px;
+  border-radius: 40px;
+  background: #84ae52;
+  border: none;
+}
+
+.butt {
+  display: flex;
+  justify-content: center;
+}
+
+.Technology {
+  font-family: Fraunces;
+  font-size: 44px;
+  font-weight: 600;
+  line-height: 54px;
+  letter-spacing: 0px;
+  margin: 100px;
+}
+
+.Unlike {
+  max-width: 646px;
+  font-family: Inter;
+  font-size: 24px;
+  padding-left: 600px;
+  margin-top: -160px;
+  font-weight: 400;
+  line-height: 40px;
+  letter-spacing: 0px;
+}
+
+.prem {
+  margin: 30px;
+}
+
+.Analysis {
+  font-family: Fraunces;
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 44px;
+  max-width: 500px;
+  letter-spacing: 0px;
+}
+
+.exam {
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 40px;
+  max-width: 500px;
+  letter-spacing: 0px;
+}
+
+.email {
+  margin: 30px;
+}
+
+.blue {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  margin-top: -420px;
+}
+
+.green {
+  padding-top: 100px;
+}
+
+.and {
+  font-family: Fraunces;
+  font-size: 44px;
+  font-weight: 600;
+  line-height: 54px;
+  letter-spacing: 0px;
+  margin: 100px;
+}
+
+.patient {
+  display: flex;
+  justify-content: center;
+  gap: 80px;
+}
+
+.chalpal {
+  text-decoration: none;
+  padding-top: 150px;
+  padding-left: 50px;
+  font-size: 25px;
+  color: #818278;
+}
+
+.icons {
+  padding-top: 50px;
+  padding-left: 50px;
+}
+
+.icon {
+  margin: 20px;
+}
+
+.footer-nav {
+  display: flex;
+  flex-direction: column;
+  padding-left: 600px;
+  margin-top: -190px;
+}
+
+.nive {
+  font-size: 20px;
+  color: #818278;
+  text-decoration: none;
+  margin: 8px;
+}
+
+.footer-navbar {
+  display: flex;
+  flex-direction: column;
+  padding-left: 800px;
+  margin-top: -200px;
+}
+
+.footer-nivebar {
+  display: flex;
+  flex-direction: column;
+  padding-left: 1000px;
+  margin-top: -160px;
+}
